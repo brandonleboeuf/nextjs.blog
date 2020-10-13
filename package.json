@@ -10,7 +10,10 @@
   "dependencies": {
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.2",
+    "install": "^0.13.0",
     "next": "9.5.3",
+    "npm": "^6.14.8",
+    "postcss-flexbugs-fixes": "^4.2.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "remark": "^12.0.1",
